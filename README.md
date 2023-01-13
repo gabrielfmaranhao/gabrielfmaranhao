@@ -11,12 +11,3 @@ A programação em si me completa, e chama todas as minhas paixões; ele incorpo
 ![](https://github-readme-stats.vercel.app/api?username=gabrielfmaranhao&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielfmaranhao&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfmaranhao&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=gabrielfmaranhao&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
