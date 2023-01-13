@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre :
 A programação em si me completa, e chama todas as minhas paixões; ele incorpora criatividade e solução de problemas e com o Git eu posso melhorar sempre que posso no código.<br><br>Simplesmente aplicar design responsivo e deixar o site reativo com o ReactJS é incrivelmente satisfatório pra mim. Me sinto bem fazendo e aprendendo a cada dia seja aplicando novos conceitos de responsividade com o CSS ou aprendendo novas maneiras de reutilização de código.<br><br>Minhas especialidades incluem a persistência no aprendizado de novas tecnologias e novas habilidades, a resolução de problemas, princípios de design responsivo, otimização de sites e os métodos de organização de código Model View View Model (MVVM) e Model View Controller (MVC). <br><br>Tenho como objetivo pessoal e profissional, me tornar referência de sucesso na minha família por meio da programação e vou seguir com este objetivo com toda a minha dedicação e força de vontade.<br><br>Atualmente me expecializando como desenvolvedor full-stack pela Kenzie Academy Brasil e com forte conhecimento com desenvolvedor Front-end.<br><br>Principais tecnologias que possuo conhecimento: HTML, CSS, TypeScript, JavaScript, React, Context-Api, Styled-Components, SCRUM, axios, express, node.js, Git, GitHub, postgressSQL, Docker, toastyfy, yup, react-router-dom, framer-motion, JEST, json-server, PDF-maker.
 
 
@@ -15,8 +15,6 @@ A programação em si me completa, e chama todas as minhas paixões; ele incorpo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gabrielfmaranhao&icon=0&color=0)](https://visitcount.itsvg.in)
