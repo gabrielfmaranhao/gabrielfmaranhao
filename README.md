@@ -1,5 +1,13 @@
 # 💫 Sobre :
-A programação em si me completa, e chama todas as minhas paixões; ele incorpora criatividade e solução de problemas e com o Git eu posso melhorar sempre que posso no código.<br><br>Simplesmente aplicar design responsivo e deixar o site reativo com o ReactJS é incrivelmente satisfatório pra mim. Me sinto bem fazendo e aprendendo a cada dia seja aplicando novos conceitos de responsividade com o CSS ou aprendendo novas maneiras de reutilização de código.<br><br>Minhas especialidades incluem a persistência no aprendizado de novas tecnologias e novas habilidades, a resolução de problemas, princípios de design responsivo, otimização de sites e os métodos de organização de código Model View View Model (MVVM) e Model View Controller (MVC). <br><br>Tenho como objetivo pessoal e profissional, me tornar referência de sucesso na minha família por meio da programação e vou seguir com este objetivo com toda a minha dedicação e força de vontade.<br><br>Atualmente me expecializando como desenvolvedor full-stack pela Kenzie Academy Brasil e com forte conhecimento com desenvolvedor Front-end.<br><br>Principais tecnologias que possuo conhecimento: HTML, CSS, TypeScript, JavaScript, React, Context-Api, Styled-Components, SCRUM, axios, express, node.js, Git, GitHub, postgressSQL, Docker, toastyfy, yup, react-router-dom, framer-motion, JEST, json-server, PDF-maker.
+Como desenvolvedor web full stack recém formado pela Kenzie Academy Brasil, estou pronto para trazer minhas habilidades e conhecimentos para contribuir em projetos desafiadores na área de tecnologia.
+
+Durante meu período na Kenzie, desenvolvi habilidades em diversas linguagens de programação, incluindo HTML, CSS, JavaScript, Node.js, React e Python. Além disso, aprendi a trabalhar com bancos de dados, APIs e frameworks de desenvolvimento web. Com essa formação, estou preparado para enfrentar os desafios do mercado de tecnologia atual.
+
+Estou entusiasmado em aplicar minhas habilidades e conhecimentos para criar soluções criativas e inovadoras para problemas do mundo real. Minha abordagem de desenvolvimento é orientada para o usuário, priorizando a usabilidade e a experiência do usuário final.
+
+Além disso, tenho experiência trabalhando em equipe, tendo participado de projetos em grupo na Kenzie Academy. Sei como trabalhar em colaboração com outros desenvolvedores e profissionais de outras áreas, garantindo a entrega de um produto final de qualidade.
+
+Estou em busca de oportunidades para crescer e desenvolver minhas habilidades como desenvolvedor web full stack. Se você está procurando um profissional comprometido, dedicado e apaixonado pela tecnologia, entre em contato comigo. Estou animado para contribuir e fazer a diferença em projetos desafiadores e inovadores.
 
 
 ## 🌐 Socials:
